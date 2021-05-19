@@ -1,6 +1,6 @@
 import time
 
-# Scrypt wrote 05/19/21 by Paf
+# Scrypt wrote 05/19/21 by Paf.
 # Choose how many rounds we want to time
 
 rounds = int(input("How many rounds ?"))
